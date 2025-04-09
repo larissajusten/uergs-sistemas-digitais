@@ -1,1 +1,1 @@
-# uergs-sistemas-digitais
+# uergs-digital-systems
